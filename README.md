@@ -43,5 +43,5 @@ python3 cam.py
 
 Now for your computer to recognise the feed as a virtual camera, you can use an application like OBS and use their virtual camera plugin.
 
-A [link to a video](https://www.youtube.com/watch?v=bfrknjDzukI) that explains how to use OBS for a virtual camera
+Here is a [link to a video](https://www.youtube.com/watch?v=bfrknjDzukI) that explains how to use OBS for a virtual camera
 
