@@ -31,3 +31,12 @@ Open the application and start the server
 Note down the link where your video feed is hosted.
 
 <img src="https://i.imgur.com/ZU1evg6.png" alt="alt text" width="500" height="250">
+
+Now open Cam.py in your IDE or any Editor and replace the link with yours.
+
+<img src="https://i.imgur.com/TnNtoXa.png" alt="alt text">
+
+Save the file and now run the script.
+```sh
+python3 cam.py
+```
