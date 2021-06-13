@@ -22,7 +22,5 @@ pip3 install opencv-python
 ```
 Now install IP Webcam in your mobile phone.
 
-
-
 <img src="https://i.imgur.com/pjPhBSL.jpg" alt="alt text" width="250" height="250">
 
