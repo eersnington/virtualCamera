@@ -30,4 +30,4 @@ Open the application and start the server
 
 Note down the link where your video feed is hosted.
 
-<img src="https://i.imgur.com/ZU1evg6.png" alt="alt text" width="250" height="125">
+<img src="https://i.imgur.com/ZU1evg6.png" alt="alt text" width="500" height="250">
