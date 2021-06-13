@@ -21,5 +21,5 @@ cd virtualCamera
 pip3 install opencv-python
 ```
 Now install IP Webcam in your mobile phone
-![alt text](https://i.imgur.com/pjPhBSL.jpg)
+![](https://i.imgur.com/pjPhBSL.jpg =250x250)
 
