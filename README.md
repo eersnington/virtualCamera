@@ -8,7 +8,7 @@
 
 For online classes, I found it difficult to use teams/zoom for online classes on my phone cause I don't have a webcam for my computer, so I found a way to use my phone as a webcam.
 
-## Installation
+## Installation and Setup
 
 Clone the repository
 ```sh
@@ -24,3 +24,10 @@ Now install IP Webcam in your mobile phone.
 
 <img src="https://i.imgur.com/pjPhBSL.jpg" alt="alt text" width="250" height="250">
 
+Open the application and start the server
+
+<img src="https://i.imgur.com/5sIov1Z.png" alt="alt text" width="125" height="250">
+
+Note down the link where your video feed is hosted.
+
+<img src="https://i.imgur.com/ZU1evg6.png" alt="alt text" width="250" height="125">
